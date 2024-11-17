@@ -12,7 +12,6 @@
      **                  Telegram  : @kikikokok9                       **
      **                  Email     : riskymanuel08@proton.me           **
      ====================================================================
-<pre>
 ```
 
 ## Sample Demo
