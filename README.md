@@ -58,7 +58,7 @@ Menjalankan perintah: yt-dlp -f 'bestvideo+bestaudio' --merge-output-format mp4 
 [youtube] qtCnA_TbqVA: Downloading mweb player API JSON
 [youtube] qtCnA_TbqVA: Downloading m3u8 information
 [info] qtCnA_TbqVA: Downloading 1 format(s): 616+251
-[hlsnative] Downloading m3u8 manifest
+[hlsnative] Downloading m3u8 manifest.
 [hlsnative] Total fragments: 22
 [download] Destination: ./downloads/Lagu Doraemon dalam 3 Bahasa ｜ Jepang Indonesia Jawa.f616.mp4
 [download] 100% of   20.22MiB in 00:00:08 at 2.36MiB/s
